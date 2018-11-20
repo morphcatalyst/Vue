@@ -39,7 +39,7 @@ export default {
   name: "Hello-World",
   data() {
     return {
-      msg: "Welcome to vue js application."
+      msg: "Welcome to vue js application by me."
     };
   }
 };
